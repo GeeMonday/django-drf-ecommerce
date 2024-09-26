@@ -7,3 +7,9 @@ pytest-django - 4.9.0
 
 # Commands
 pytest -h - 
+
+# Extensions
+black - 24.8.0
+
+# .Vscode
+Using python version 1.93 documentation in settings.json
