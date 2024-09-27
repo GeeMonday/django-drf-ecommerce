@@ -4,4 +4,4 @@ venv/
 **__pycache
 db.sqlite3
 .coverage
-.vscode 
+.vscode
